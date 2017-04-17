@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 27b5dc588cee64c8abc822332b13a5cb
+timeCreated: 1488776813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile - Final Fantasy 6 - Sabins Shadow_0
+    21300002: Mobile - Final Fantasy 6 - Sabins Shadow_1
+    21300004: Mobile - Final Fantasy 6 - Sabins Shadow_2
+    21300006: Mobile - Final Fantasy 6 - Sabins Shadow_3
+    21300008: Mobile - Final Fantasy 6 - Sabins Shadow_4
+    21300010: Mobile - Final Fantasy 6 - Sabins Shadow_5
+    21300012: Mobile - Final Fantasy 6 - Sabins Shadow_6
+    21300014: Mobile - Final Fantasy 6 - Sabins Shadow_7
+    21300016: Mobile - Final Fantasy 6 - Sabins Shadow_8
+    21300018: Mobile - Final Fantasy 6 - Sabins Shadow_9
+    21300020: Mobile - Final Fantasy 6 - Sabins Shadow_10
+    21300022: Mobile - Final Fantasy 6 - Sabins Shadow_11
+    21300024: Mobile - Final Fantasy 6 - Sabins Shadow_12
+    21300026: Mobile - Final Fantasy 6 - Sabins Shadow_13
+    21300028: Mobile - Final Fantasy 6 - Sabins Shadow_14
+    21300030: Mobile - Final Fantasy 6 - Sabins Shadow_15
+    21300032: Mobile - Final Fantasy 6 - Sabins Shadow_16
+    21300034: Mobile - Final Fantasy 6 - Sabins Shadow_17
+    21300036: Mobile - Final Fantasy 6 - Sabins Shadow_18
+    21300038: Mobile - Final Fantasy 6 - Sabins Shadow_19
+    21300040: Mobile - Final Fantasy 6 - Sabins Shadow_20
+    21300042: Mobile - Final Fantasy 6 - Sabins Shadow_21
+    21300044: Mobile - Final Fantasy 6 - Sabins Shadow_22
+    21300046: Mobile - Final Fantasy 6 - Sabins Shadow_23
+    21300048: Mobile - Final Fantasy 6 - Sabins Shadow_24
+    21300050: Mobile - Final Fantasy 6 - Sabins Shadow_25
+    21300052: Mobile - Final Fantasy 6 - Sabins Shadow_26
+    21300054: Mobile - Final Fantasy 6 - Sabins Shadow_27
+    21300056: Mobile - Final Fantasy 6 - Sabins Shadow_28
+    21300058: Mobile - Final Fantasy 6 - Sabins Shadow_29
+    21300060: Mobile - Final Fantasy 6 - Sabins Shadow_30
+    21300062: Mobile - Final Fantasy 6 - Sabins Shadow_31
+    21300064: Mobile - Final Fantasy 6 - Sabins Shadow_32
+    21300066: Mobile - Final Fantasy 6 - Sabins Shadow_33
+    21300068: Mobile - Final Fantasy 6 - Sabins Shadow_34
+    21300070: Mobile - Final Fantasy 6 - Sabins Shadow_35
+    21300072: Mobile - Final Fantasy 6 - Sabins Shadow_36
+    21300074: Mobile - Final Fantasy 6 - Sabins Shadow_37
+    21300076: Mobile - Final Fantasy 6 - Sabins Shadow_38
+    21300078: Mobile - Final Fantasy 6 - Sabins Shadow_39
+    21300080: Mobile - Final Fantasy 6 - Sabins Shadow_40
+    21300082: Mobile - Final Fantasy 6 - Sabins Shadow_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 208
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 158
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 108
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 58
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy 6 - Sabins Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 8
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &148404
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 464206}
+  - component: {fileID: 11420160}
+  m_Layer: 0
+  m_Name: ResourcesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &464206
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 148404}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11420160
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 148404}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 549414bfdf7bf5d40aa2f47ca008c75f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  glassWood: {fileID: 8300000, guid: b05426cca1007a34490a101061d7b84f, type: 3}
+  glassStone: {fileID: 8300000, guid: cc3db350af474ab4bb23715cff5252e0, type: 3}
+  glassGlass: {fileID: 8300000, guid: cb20fffe12a4dd04d8d235c1c8b9fe75, type: 3}
+  woodStone: {fileID: 8300000, guid: b3a4469b1fd335f43832be29a865ff02, type: 3}
+  woodWood: {fileID: 8300000, guid: fe6aaa95116f1914690a8a95e9f666fa, type: 3}
+  stoneStone: {fileID: 8300000, guid: 146251faa1c23ad45baa23bf479cc1b7, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 148404}
+  m_IsPrefabParent: 1

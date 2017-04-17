@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 5be726342761c33489ad1be206df75c0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Preloader
+    21300002: Preloader_0
+    21300004: Preloader_1
+    21300006: Preloader_2
+    21300008: Preloader_3
+    21300010: Preloader_4
+    21300012: Preloader_5
+    21300014: Preloader_6
+    21300016: Preloader_7
+    21300018: Preloader_8
+    21300020: Preloader_9
+    21300022: Preloader_10
+    21300024: Preloader_11
+    21300026: Preloader_12
+    21300028: Preloader_13
+    21300030: Preloader_14
+    21300032: Preloader_15
+    21300034: Preloader_16
+    21300036: Preloader_17
+    21300038: Preloader_18
+    21300040: Preloader_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Preloader_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 28.5}
+        - {x: -28.5, y: 6.5}
+        - {x: -28.5, y: -23.5}
+        - {x: -26.5, y: -28.5}
+        - {x: 25.5, y: -28.5}
+        - {x: 28.5, y: -20.5}
+        - {x: 28.5, y: 22.5}
+        - {x: 16.5, y: 28.5}
+    - name: Preloader_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8888893, y: 28.5}
+        - {x: 0.8888893, y: 27.5}
+        - {x: 1.8888893, y: 24.5}
+        - {x: -27.11111, y: 15.5}
+        - {x: -28.11111, y: 8.5}
+        - {x: -28.11111, y: -17.5}
+        - {x: -24.11111, y: -28.5}
+        - {x: 29.88889, y: -28.5}
+        - {x: 29.88889, y: 22.5}
+        - {x: 27.88889, y: 28.5}
+    - name: Preloader_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.777779, y: 27.5}
+        - {x: 7.7777786, y: 27.5}
+        - {x: 6.7777786, y: 26.5}
+        - {x: -14.222221, y: 22.5}
+        - {x: -28.222221, y: 19.5}
+        - {x: -28.222221, y: -12.5}
+        - {x: -12.222221, y: -28.5}
+        - {x: 14.777779, y: -28.5}
+        - {x: 19.777779, y: -27.5}
+        - {x: 29.777779, y: -14.5}
+        - {x: 29.777779, y: 14.5}
+        - {x: 28.777779, y: 19.5}
+    - name: Preloader_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.333328, y: 25.5}
+        - {x: -28.333328, y: -13.5}
+        - {x: -15.333328, y: -28.5}
+        - {x: 10.666672, y: -28.5}
+        - {x: 22.666672, y: -26.5}
+        - {x: 29.666672, y: -18.5}
+        - {x: 29.666672, y: 12.5}
+        - {x: 23.666672, y: 25.5}
+    - name: Preloader_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.444443, y: 28.5}
+        - {x: -28.444443, y: -28.5}
+        - {x: 15.555557, y: -28.5}
+        - {x: 29.555557, y: -20.5}
+        - {x: 29.555557, y: 18.5}
+        - {x: 26.555557, y: 24.5}
+        - {x: 12.555557, y: 28.5}
+    - name: Preloader_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.555542, y: 28.5}
+        - {x: -28.555542, y: -25.5}
+        - {x: -25.555542, y: -28.5}
+        - {x: 29.444458, y: -28.5}
+        - {x: 29.444458, y: 28.5}
+    - name: Preloader_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.333344, y: -4.5}
+        - {x: 22.333344, y: -5.5}
+        - {x: 27.333344, y: 12.5}
+        - {x: 27.333344, y: 17.5}
+        - {x: 16.333344, y: 28.5}
+        - {x: -25.666656, y: 28.5}
+        - {x: -28.666656, y: 18.5}
+        - {x: -28.666656, y: -21.5}
+        - {x: -17.666656, y: -28.5}
+        - {x: 14.3333435, y: -28.5}
+        - {x: 27.333344, y: -15.5}
+        - {x: 27.333344, y: -6.5}
+    - name: Preloader_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.777771, y: 28.5}
+        - {x: -28.777771, y: 18.5}
+        - {x: -28.777771, y: -25.5}
+        - {x: -21.777771, y: -28.5}
+        - {x: 19.222229, y: -28.5}
+        - {x: 23.222229, y: -22.5}
+        - {x: 23.222229, y: 28.5}
+    - name: Preloader_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.611115, y: 25.5}
+        - {x: 18.611115, y: 28.5}
+        - {x: -24.388885, y: 28.5}
+        - {x: -28.388885, y: 23.5}
+        - {x: -28.388885, y: -16.5}
+        - {x: -25.388885, y: -24.5}
+        - {x: -18.388885, y: -27.5}
+        - {x: -10.3888855, y: -28.5}
+        - {x: 12.6111145, y: -28.5}
+        - {x: 18.611115, y: -22.5}
+        - {x: 20.611115, y: -17.5}
+        - {x: 27.611115, y: 4.5}
+    - name: Preloader_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 15.5}
+        - {x: 20.5, y: 28.5}
+        - {x: -16.5, y: 28.5}
+        - {x: -28.5, y: 15.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -16.5, y: -28.5}
+        - {x: 9.5, y: -28.5}
+        - {x: 9.5, y: -25.5}
+        - {x: 25.5, y: -13.5}
+        - {x: 28.5, y: -10.5}
+    - name: Preloader_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.888916, y: 28.5}
+        - {x: -19.111084, y: 28.5}
+        - {x: -25.111084, y: 27.5}
+        - {x: -28.111084, y: 14.5}
+        - {x: -28.111084, y: -11.5}
+        - {x: -20.111084, y: -28.5}
+        - {x: 1.888916, y: -28.5}
+        - {x: 2.888916, y: -27.5}
+        - {x: 29.888916, y: -11.5}
+        - {x: 29.888916, y: 14.5}
+    - name: Preloader_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.222229, y: 28.5}
+        - {x: -28.222229, y: -23.5}
+        - {x: -19.222229, y: -25.5}
+        - {x: -7.222229, y: -25.5}
+        - {x: 29.777771, y: -17.5}
+        - {x: 29.777771, y: 27.5}
+        - {x: 27.777771, y: 28.5}
+    - name: Preloader_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.333313, y: 28.5}
+        - {x: -28.333313, y: 23.5}
+        - {x: -28.333313, y: -16.5}
+        - {x: -18.333313, y: -24.5}
+        - {x: 19.666687, y: -24.5}
+        - {x: 29.666687, y: -20.5}
+        - {x: 29.666687, y: 27.5}
+        - {x: 27.666687, y: 28.5}
+    - name: Preloader_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.555542, y: 28.5}
+        - {x: -15.444458, y: 28.5}
+        - {x: -28.444458, y: 16.5}
+        - {x: -28.444458, y: -18.5}
+        - {x: -26.444458, y: -24.5}
+        - {x: -2.444458, y: -28.5}
+        - {x: 13.555542, y: -28.5}
+        - {x: 28.555542, y: -19.5}
+        - {x: 29.555542, y: -12.5}
+        - {x: 29.555542, y: 15.5}
+    - name: Preloader_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.555542, y: 28.5}
+        - {x: -28.555542, y: 15.5}
+        - {x: -28.555542, y: -2.5}
+        - {x: -26.555542, y: -2.5}
+        - {x: -23.555542, y: -1.5}
+        - {x: -11.555542, y: -26.5}
+        - {x: -7.555542, y: -28.5}
+        - {x: 9.444458, y: -28.5}
+        - {x: 17.444458, y: -26.5}
+        - {x: 29.444458, y: -17.5}
+        - {x: 29.444458, y: 25.5}
+        - {x: 20.444458, y: 28.5}
+    - name: Preloader_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.333313, y: 28.5}
+        - {x: -23.666687, y: 28.5}
+        - {x: -28.666687, y: 13.5}
+        - {x: -28.666687, y: 6.5}
+        - {x: -26.666687, y: 5.5}
+        - {x: -24.666687, y: 5.5}
+        - {x: -22.666687, y: 7.5}
+        - {x: -15.666687, y: -24.5}
+        - {x: -10.666687, y: -28.5}
+        - {x: 16.333313, y: -28.5}
+        - {x: 29.333313, y: -12.5}
+        - {x: 29.333313, y: 13.5}
+        - {x: 26.333313, y: 19.5}
+    - name: Preloader_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.777771, y: 28.5}
+        - {x: -24.777771, y: 19.5}
+        - {x: -24.777771, y: -25.5}
+        - {x: -15.777771, y: -28.5}
+        - {x: 19.222229, y: -28.5}
+        - {x: 29.222229, y: -21.5}
+        - {x: 29.222229, y: 16.5}
+        - {x: 24.222229, y: 28.5}
+    - name: Preloader_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.388855, y: 28.5}
+        - {x: -18.388855, y: 24.5}
+        - {x: -17.388855, y: 18.5}
+        - {x: -27.388855, y: -3.5}
+        - {x: -27.388855, y: -18.5}
+        - {x: -13.388855, y: -28.5}
+        - {x: 25.611145, y: -28.5}
+        - {x: 28.611145, y: -19.5}
+        - {x: 28.611145, y: 21.5}
+        - {x: 17.611145, y: 28.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
